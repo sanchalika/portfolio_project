@@ -1,3 +1,3 @@
 # my_project
 first project
-sanchalika.netlify.app
+https://sanchalika.netlify.app
