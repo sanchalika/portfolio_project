@@ -956,7 +956,7 @@ Blog
 
 }
 .card-side{
-    transition: all 0.1s linear;
+    transition: all 0.01s linear;
     -webkit-backface-visibility: hidden;
     backface-visibility: hidden;
 
