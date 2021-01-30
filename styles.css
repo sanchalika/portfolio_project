@@ -38,7 +38,7 @@ Variables
   --clr-grey-9: hsl(212, 33%, 89%);
   --clr-grey-10: hsl(210, 36%, 96%);
   --clr-white: #fff;
-  --clr-black: hsl(11, 0%, 0%);
+ 
   --ff-primary: "Roboto", sans-serif;
   --ff-secondary: "Open Sans", sans-serif;
   --transition: all 0.3s linear;
@@ -63,7 +63,7 @@ Global Styles
 }
 body {
   font-family: var(--ff-secondary);
-  background: var(--clr-black);
+  background: var(--clr-white);
   color: var(--clr-grey-1);
   line-height: 1.5;
   font-size: 0.875rem;
